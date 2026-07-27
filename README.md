@@ -9,3 +9,4 @@ additional features:
 - Prettier for code formatting
 - Tailwind CSS for styling
 - [Lucide icons](https://lucide.dev)
+- Vitest for testing
