@@ -30,9 +30,9 @@
     "svelte-check": "^4.4.4",
     "tailwindcss": "^4.3.2",
     "tslib": "^2.8.1",
-    "typescript": "^5.9.3",
+    "typescript": "^6.0.3",
     "vitest": "^4.1.10",
-    "wxt": "^0.20.27"
+    "wxt": "^0.21.1"
   },
   "lint-staged": {
     "*.{ts,svelte,html,css}": [
