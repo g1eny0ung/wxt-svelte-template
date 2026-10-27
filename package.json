@@ -17,7 +17,7 @@
     "prepare": "husky"
   },
   "devDependencies": {
-    "@lucide/svelte": "^1.59.0",
+    "@lucide/svelte": "^1.62.0",
     "@tailwindcss/vite": "^4.3.3",
     "@trivago/prettier-plugin-sort-imports": "^6.0.2",
     "@tsconfig/svelte": "^5.0.8",
@@ -26,13 +26,13 @@
     "lint-staged": "^17.6.0",
     "prettier": "^3.9.10",
     "prettier-plugin-svelte": "^4.1.1",
-    "svelte": "^5.57.2",
+    "svelte": "^5.57.3",
     "svelte-check": "^4.7.7",
     "tailwindcss": "^4.3.3",
     "tslib": "^2.8.1",
     "typescript": "^6.0.3",
     "vitest": "^4.1.10",
-    "wxt": "^0.21.4"
+    "wxt": "^0.21.5"
   },
   "lint-staged": {
     "*.{ts,svelte,html,css}": [
